@@ -1,0 +1,22 @@
+{
+  "name": "playwright-testing",
+  "version": "1.0.0",
+  "description": "Perform testing using Playwright framework.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LVC1F3RVM/playwright-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LVC1F3RVM/playwright-testing/issues"
+  },
+  "homepage": "https://github.com/LVC1F3RVM/playwright-testing#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.14.0"
+  }
+}
