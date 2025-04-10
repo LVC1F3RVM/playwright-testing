@@ -1,0 +1,36 @@
+{
+  "name": "playwright-testing",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Perform testing using Playwright framework.",
+  "main": "index.js",
+  "dependencies": {
+    "@faker-js/faker": "^9.6.0",
+    "allure-commandline": "^2.33.0",
+    "allure-js-commons": "^3.2.1",
+    "allure-playwright": "^3.2.1",
+    "charenc": "^0.0.2",
+    "crypt": "^0.0.2",
+    "is-buffer": "^1.1.6",
+    "md5": "^2.3.0",
+    "playwright": "^1.51.1",
+    "playwright-core": "^1.51.1",
+    "undici-types": "^6.21.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.14.0"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LVC1F3RVM/playwright-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LVC1F3RVM/playwright-testing/issues"
+  },
+  "homepage": "https://github.com/LVC1F3RVM/playwright-testing#readme"
+}
